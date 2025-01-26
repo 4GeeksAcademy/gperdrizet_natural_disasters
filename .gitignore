@@ -1,3 +1,4 @@
 .vscode
 .venv
-.venv_tf-GPU
+.venv-GPU
+.venv-CPU
