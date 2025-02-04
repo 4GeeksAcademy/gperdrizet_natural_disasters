@@ -1,3 +1,7 @@
+__pycache__
 .vscode
 .venv-GPU
 .venv-CPU
+*.keras
+data/training_results/*.pkl
+data/training_results/per-state_LSTM_ensemble/*.pkl
